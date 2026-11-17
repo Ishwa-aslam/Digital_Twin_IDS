@@ -145,7 +145,7 @@ All reported results are based on the project's simulated dataset and experiment
 - The experiments demonstrate an academic prototype, not a production-ready security solution.
 
 ## Project Type
-Academic Individual Assignment — BE Computer Systems Engineering, 5th Semester.
+Academic Assignment based on Operating-system concepts integrated with AI/ML — BE Computer Systems Engineering, 5th Semester.
 
 ## Author
 Ishwa Aslam
