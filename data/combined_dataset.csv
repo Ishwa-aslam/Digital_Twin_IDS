@@ -1,0 +1,201 @@
+time,water_level,flow_rate,valve_status,status,anomaly_type
+95,76.73,0.09,CLOSED,Normal,None
+15,78.1,0.86,CLOSED,Normal,None
+30,64.56,0.48,CLOSED,Normal,None
+58,36.07,21.47,CLOSED,Anomaly,Abnormal Flow
+28,66.21,0.28,OPEN,Anomaly,Valve Mismatch
+15,78.1,23.34,CLOSED,Anomaly,Abnormal Flow
+69,38.58,10.15,OPEN,Normal,None
+70,39.91,24.83,OPEN,Anomaly,Abnormal Flow
+74,47.76,9.66,CLOSED,Anomaly,Valve Mismatch
+45,48.24,0.17,CLOSED,Normal,None
+66,31.66,9.13,OPEN,Normal,None
+82,62.38,21.21,OPEN,Anomaly,Abnormal Flow
+65,29.63,0.78,OPEN,Anomaly,Valve Mismatch
+78,56.2,10.9,OPEN,Normal,None
+86,70.51,9.15,CLOSED,Anomaly,Valve Mismatch
+77,54.13,8.42,CLOSED,Anomaly,Valve Mismatch
+56,37.42,0.31,CLOSED,Normal,None
+52,41.21,0.33,OPEN,Anomaly,Valve Mismatch
+82,62.38,10.8,OPEN,Normal,None
+68,36.96,10.0,OPEN,Normal,None
+24,94.13,0.66,CLOSED,Anomaly,Sensor Spike
+16,76.8,0.26,CLOSED,Normal,None
+48,45.88,0.77,OPEN,Anomaly,Valve Mismatch
+93,78.79,0.21,CLOSED,Normal,None
+65,29.63,0.78,CLOSED,Normal,None
+60,34.29,0.61,CLOSED,Normal,None
+84,65.77,10.52,OPEN,Normal,None
+67,34.41,9.52,OPEN,Normal,None
+25,68.54,23.83,CLOSED,Anomaly,Abnormal Flow
+32,61.99,0.94,OPEN,Anomaly,Valve Mismatch
+9,71.24,8.74,OPEN,Normal,None
+18,74.54,0.18,CLOSED,Normal,None
+55,38.12,0.68,CLOSED,Normal,None
+75,50.56,11.73,OPEN,Normal,None
+50,43.03,22.37,CLOSED,Anomaly,Abnormal Flow
+4,60.12,22.33,OPEN,Anomaly,Abnormal Flow
+35,33.92,0.31,CLOSED,Anomaly,Sensor Spike
+37,57.21,20.71,CLOSED,Anomaly,Abnormal Flow
+64,30.59,0.31,OPEN,Anomaly,Valve Mismatch
+76,52.24,11.7,OPEN,Normal,None
+79,58.45,11.13,OPEN,Normal,None
+97,74.42,0.53,OPEN,Anomaly,Valve Mismatch
+38,56.22,0.19,CLOSED,Normal,None
+24,69.13,0.66,CLOSED,Normal,None
+22,70.82,24.4,CLOSED,Anomaly,Abnormal Flow
+95,76.73,0.09,OPEN,Anomaly,Valve Mismatch
+29,65.13,0.24,CLOSED,Normal,None
+19,74.0,0.07,CLOSED,Normal,None
+43,50.22,0.03,OPEN,Anomaly,Valve Mismatch
+86,70.51,9.15,OPEN,Normal,None
+14,54.459999999999994,0.78,CLOSED,Anomaly,Sensor Spike
+73,19.85,9.92,OPEN,Anomaly,Sensor Spike
+5,62.96,9.79,OPEN,Normal,None
+26,67.68,18.78,CLOSED,Anomaly,Abnormal Flow
+17,75.66,20.92,CLOSED,Anomaly,Abnormal Flow
+73,44.85,9.92,OPEN,Normal,None
+40,53.44,0.35,OPEN,Anomaly,Valve Mismatch
+98,73.59,0.6,CLOSED,Normal,None
+72,43.71,22.95,OPEN,Anomaly,Abnormal Flow
+96,75.74,0.05,CLOSED,Normal,None
+69,13.579999999999998,10.15,OPEN,Anomaly,Sensor Spike
+97,74.42,0.53,CLOSED,Normal,None
+31,63.34,0.57,CLOSED,Normal,None
+12,79.36,11.59,OPEN,Normal,None
+35,58.92,0.31,CLOSED,Normal,None
+19,74.0,21.27,CLOSED,Anomaly,Abnormal Flow
+42,50.87,0.36,CLOSED,Normal,None
+89,76.95,8.89,CLOSED,Anomaly,Valve Mismatch
+90,78.27,10.71,OPEN,Normal,None
+36,58.29,0.91,OPEN,Anomaly,Valve Mismatch
+51,41.9,0.23,CLOSED,Normal,None
+27,91.77,0.03,CLOSED,Anomaly,Sensor Spike
+62,57.73,0.43,CLOSED,Anomaly,Sensor Spike
+41,52.01,0.11,CLOSED,Normal,None
+18,99.54,0.18,CLOSED,Anomaly,Sensor Spike
+13,80.87,22.3,OPEN,Anomaly,Abnormal Flow
+26,67.68,0.45,CLOSED,Normal,None
+39,29.729999999999997,0.65,CLOSED,Anomaly,Sensor Spike
+0,52.36,22.54,OPEN,Anomaly,Abnormal Flow
+11,76.94,8.81,CLOSED,Anomaly,Valve Mismatch
+2,56.01,11.53,OPEN,Normal,None
+77,54.13,8.42,OPEN,Normal,None
+46,47.37,0.71,CLOSED,Normal,None
+87,72.08,11.48,CLOSED,Anomaly,Valve Mismatch
+91,81.14,21.43,OPEN,Anomaly,Abnormal Flow
+85,67.68,11.61,OPEN,Normal,None
+61,8.399999999999999,0.13,CLOSED,Anomaly,Sensor Spike
+36,58.29,0.91,CLOSED,Normal,None
+90,78.27,10.71,CLOSED,Anomaly,Valve Mismatch
+61,33.4,0.13,CLOSED,Normal,None
+22,70.82,0.91,CLOSED,Normal,None
+41,52.01,19.08,CLOSED,Anomaly,Abnormal Flow
+1,54.03,24.09,OPEN,Anomaly,Abnormal Flow
+33,61.26,0.54,CLOSED,Normal,None
+11,76.94,8.81,OPEN,Normal,None
+94,77.59,0.11,OPEN,Anomaly,Valve Mismatch
+59,9.979999999999997,0.38,CLOSED,Anomaly,Sensor Spike
+6,65.65,11.04,OPEN,Normal,None
+27,66.77,0.03,CLOSED,Normal,None
+20,72.53,23.66,CLOSED,Anomaly,Abnormal Flow
+4,60.12,9.34,OPEN,Normal,None
+32,61.99,0.94,CLOSED,Normal,None
+42,50.87,20.82,CLOSED,Anomaly,Abnormal Flow
+45,23.240000000000002,0.17,CLOSED,Anomaly,Sensor Spike
+9,96.24,8.74,OPEN,Anomaly,Sensor Spike
+44,74.13,0.23,CLOSED,Anomaly,Sensor Spike
+10,74.19,10.53,OPEN,Normal,None
+62,32.73,0.43,CLOSED,Normal,None
+12,54.36,11.59,OPEN,Anomaly,Sensor Spike
+46,47.37,18.01,CLOSED,Anomaly,Abnormal Flow
+66,56.66,9.13,OPEN,Anomaly,Sensor Spike
+0,52.36,8.82,OPEN,Normal,None
+98,48.59,0.6,CLOSED,Anomaly,Sensor Spike
+53,40.0,0.4,OPEN,Anomaly,Valve Mismatch
+70,39.91,8.21,OPEN,Normal,None
+23,94.89,0.21,CLOSED,Anomaly,Sensor Spike
+64,30.59,0.31,CLOSED,Normal,None
+44,49.13,0.23,CLOSED,Normal,None
+63,6.960000000000001,0.11,CLOSED,Anomaly,Sensor Spike
+28,66.21,0.28,CLOSED,Normal,None
+40,53.44,0.35,CLOSED,Normal,None
+8,93.71,9.64,OPEN,Anomaly,Sensor Spike
+55,38.12,24.43,CLOSED,Anomaly,Abnormal Flow
+56,37.42,0.31,OPEN,Anomaly,Valve Mismatch
+25,68.54,0.45,CLOSED,Normal,None
+23,69.89,0.21,CLOSED,Normal,None
+84,40.769999999999996,10.52,OPEN,Anomaly,Sensor Spike
+47,21.53,0.5,CLOSED,Anomaly,Sensor Spike
+81,61.2,9.57,OPEN,Normal,None
+39,54.73,0.65,CLOSED,Normal,None
+68,11.96,10.0,OPEN,Anomaly,Sensor Spike
+47,46.53,0.5,CLOSED,Normal,None
+94,77.59,0.11,CLOSED,Normal,None
+54,39.03,21.13,CLOSED,Anomaly,Abnormal Flow
+43,50.22,0.03,CLOSED,Normal,None
+38,56.22,0.19,OPEN,Anomaly,Valve Mismatch
+3,57.79,10.68,OPEN,Normal,None
+5,62.96,9.79,CLOSED,Anomaly,Valve Mismatch
+53,40.0,0.4,CLOSED,Normal,None
+33,86.25999999999999,0.54,CLOSED,Anomaly,Sensor Spike
+80,59.66,10.97,CLOSED,Anomaly,Valve Mismatch
+78,56.2,10.9,CLOSED,Anomaly,Valve Mismatch
+85,67.68,11.61,CLOSED,Anomaly,Valve Mismatch
+49,44.49,0.47,CLOSED,Normal,None
+80,59.66,10.97,OPEN,Normal,None
+34,60.38,0.61,CLOSED,Normal,None
+7,66.99,9.49,OPEN,Normal,None
+10,49.19,10.53,OPEN,Anomaly,Sensor Spike
+91,81.14,10.55,OPEN,Normal,None
+83,64.4,8.02,OPEN,Normal,None
+76,52.24,23.92,OPEN,Anomaly,Abnormal Flow
+81,36.2,9.57,OPEN,Anomaly,Sensor Spike
+89,76.95,8.89,OPEN,Normal,None
+8,68.71,9.64,OPEN,Normal,None
+13,80.87,8.77,OPEN,Normal,None
+59,34.98,0.38,CLOSED,Normal,None
+71,41.67,10.06,CLOSED,Anomaly,Valve Mismatch
+31,88.34,0.57,CLOSED,Anomaly,Sensor Spike
+17,75.66,0.1,CLOSED,Normal,None
+72,43.71,8.9,OPEN,Normal,None
+75,50.56,23.59,OPEN,Anomaly,Abnormal Flow
+34,85.38,0.61,CLOSED,Anomaly,Sensor Spike
+67,9.409999999999997,9.52,OPEN,Anomaly,Sensor Spike
+83,64.4,8.02,CLOSED,Anomaly,Valve Mismatch
+63,31.96,0.11,CLOSED,Normal,None
+54,39.03,0.73,CLOSED,Normal,None
+7,66.99,9.49,CLOSED,Anomaly,Valve Mismatch
+50,43.03,0.66,CLOSED,Normal,None
+96,75.74,19.8,CLOSED,Anomaly,Abnormal Flow
+58,36.07,0.11,CLOSED,Normal,None
+48,45.88,0.77,CLOSED,Normal,None
+88,75.04,11.79,OPEN,Normal,None
+21,71.56,0.38,CLOSED,Normal,None
+57,36.68,0.08,CLOSED,Normal,None
+60,34.29,0.61,OPEN,Anomaly,Valve Mismatch
+92,100.0,0.44,CLOSED,Anomaly,Sensor Spike
+29,40.129999999999995,0.24,CLOSED,Anomaly,Sensor Spike
+37,57.21,0.93,CLOSED,Normal,None
+57,61.68,0.08,CLOSED,Anomaly,Sensor Spike
+93,53.790000000000006,0.21,CLOSED,Anomaly,Sensor Spike
+1,54.03,11.11,OPEN,Normal,None
+52,41.21,0.33,CLOSED,Normal,None
+49,69.49000000000001,0.47,CLOSED,Anomaly,Sensor Spike
+30,39.56,0.48,CLOSED,Anomaly,Sensor Spike
+51,66.9,0.23,CLOSED,Anomaly,Sensor Spike
+3,57.79,10.68,CLOSED,Anomaly,Valve Mismatch
+99,73.05,0.17,CLOSED,Normal,None
+16,76.8,0.26,OPEN,Anomaly,Valve Mismatch
+87,72.08,11.48,OPEN,Normal,None
+74,47.76,9.66,OPEN,Normal,None
+21,46.56,0.38,CLOSED,Anomaly,Sensor Spike
+99,73.05,0.17,OPEN,Anomaly,Valve Mismatch
+20,72.53,0.58,CLOSED,Normal,None
+88,75.04,22.35,OPEN,Anomaly,Abnormal Flow
+71,41.67,10.06,OPEN,Normal,None
+6,65.65,11.04,CLOSED,Anomaly,Valve Mismatch
+14,79.46,0.78,CLOSED,Normal,None
+92,79.96,0.44,CLOSED,Normal,None
+79,58.45,11.13,CLOSED,Anomaly,Valve Mismatch
+2,56.01,22.22,OPEN,Anomaly,Abnormal Flow

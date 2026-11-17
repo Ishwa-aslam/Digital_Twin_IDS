@@ -1,0 +1,5 @@
+Experiment,Accuracy,Precision,Recall,F1 Score
+Clean Test Data,0.875,1.0,0.75,0.8571428571428571
+Noisy Test Data,0.875,1.0,0.75,0.8571428571428571
+Missing Values Test,0.775,0.7894736842105263,0.75,0.7692307692307693
+Imbalanced Training Data,0.825,1.0,0.65,0.7878787878787878
